@@ -1,0 +1,42 @@
+body {
+    margin-left: 6%;
+    margin-right: 20%;
+    font-family: 'roboto', sans-serif;
+    background-color: aqua;
+}
+
+figcaption {
+    color: gray;
+    font-weight: bolder;
+}
+
+.background-text-box {
+    background-color: orange;
+    margin-left: 3.9%;
+}
+
+h1 {
+    font-family: 'Georgia', serif;
+    margin-left: 36%;
+    font-style: oblique;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+li {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-weight: bolder;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-weight: bolder;
+}
+
+h6 {
+    font-family: 'Roboto', sans-serif;
+    margin-left: 3.9%;
+    color: gray;
+}
